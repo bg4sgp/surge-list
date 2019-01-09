@@ -1,10 +1,4 @@
-USER-AGENT,com.google.ios.youtube*
 DOMAIN-SUFFIX,tw
-DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
@@ -13,7 +7,6 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,blogspot
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-KEYWORD,whatsapp
