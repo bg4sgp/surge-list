@@ -1,0 +1,13 @@
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,com.google.Vespa*
+USER-AGENT,com.google.paidtasks*
+USER-AGENT,com.google.hangouts_iOS*
+USER-AGENT,GoogleOpinionRewards*
+USER-AGENT,GOR*
+DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+
