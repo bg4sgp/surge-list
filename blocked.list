@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,t.co
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,dropbox
@@ -10,3 +11,5 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,ebesucher.com
+DOMIAN-SUFFIX,medium.com
